@@ -1,6 +1,5 @@
 焼き鳥のステートマシン図
-```uml
-@satartuml
+
 
 ```uml
 @startuml
